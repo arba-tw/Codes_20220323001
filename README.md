@@ -4,4 +4,4 @@
 參考：
 1. https://gist.github.com/realtebo/8d6a489932eae341600bc76c4baea94a
 2. https://www.itzgeek.com/post/how-to-install-nagios-on-ubuntu-20-04/
-3. 還有很多～～
+3. 還有很多～～族繁不及備載
